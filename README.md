@@ -4,6 +4,7 @@
 ## - ☕ Só isso
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=NahNathan&show_icons=true&theme=dracula)
+<br><br>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NahNathan&layout=compact&langs_count=25&theme=dracula"/>
 
 <div>
