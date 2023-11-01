@@ -1,17 +1,24 @@
-## - 🗿 Oi, sou Nathan Rodrigues
-## - 🎓 Estou cursando ADS no IFTM em Uberaba - MG
-## - 🖥️ Me interesso na área de front-end & mobile
-## - ☕ Só isso
+
+# Olá, sou Nathan Rodrigues 👋
+
+### - 🗿 Oi, sou Nathan Rodrigues
+### - 🎓 Estou cursando ADS no IFTM em Uberaba - MG
+### - 🖥️ Me interesso na área de front-end & mobile
+### - ☕ Só isso
+
 <div align="center">
   
   ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=NahNathan&theme=dracula)
-  <br>
   ![Top Language by Repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NahNathan&theme=dracula)
   ![Top Language by Commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NahNathan&theme=dracula)
-  <br>
-  
-  <div>
-  	<img width="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/>
+</div>
+
+---
+
+## 🤖 Tecnologias & Ferramentas
+
+<div align="center">
+  <img width="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/>
   	<img width="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS"/>
   	<img width="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/>
   	<img width="50" src="https://user-images.githubusercontent.com/25181517/186150365-da1eccce-6201-487c-8649-45e9e99435fd.png" alt="Flutter" title="Flutter"/>
@@ -26,12 +33,32 @@
   	<img width="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/>
   	<img width="50" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code"/>
   	<img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/a57a85ba-e2dd-4036-85b6-7e1532391627" alt="Arduino" title="Arduino"/>
-  </div>
-  <br>
-  
+</div>
+
+---
+
+## 🎓Formação
+
+### Técnico em Eletrônica💡
+2019 - 2022 <br>
+<b>Concluído</b><br>
+<b> Instituto Federal do Triângulo Mineiro - IFTM</b>
+<br>
+
+##
+
+### Análise e Desenvolvimento de Sistemas - ADS👨‍💻
+2021 - 2024 <br>
+<b>Cursando</b><br>
+<b> Instituto Federal do Triângulo Mineiro - IFTM</b>
+
+- <b>Atualmente no 4° Período</b>
+<br>
+
+---
+
   <div>
     <a href="https://github.com/NahNathan">
     <img height="130em" src="https://i.imgur.com/ZY9Jwp3.jpeg">
   </div>
 </div>
-
