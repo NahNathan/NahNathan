@@ -8,9 +8,10 @@
 
 <div align="center">
   
-  ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=NahNathan&theme=dracula)
+  
   ![Top Language by Repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NahNathan&theme=dracula)
   ![Top Language by Commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NahNathan&theme=dracula)
+  ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=NahNathan&theme=dracula)
 </div>
 
 ---
