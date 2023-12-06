@@ -3,6 +3,7 @@
 
 ### - 🗿 Oi, sou Nathan Rodrigues
 ### - 🎓 Estou cursando ADS no IFTM em Uberaba - MG
+### - 👾 Amo programar
 ### - 🖥️ Me interesso na área de front-end & mobile
 ### - ☕ Só isso
 
