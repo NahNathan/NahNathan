@@ -5,7 +5,7 @@
 ### - 🎓 Estou cursando ADS no IFTM em Uberaba - MG
 ### - 🖥️ Me interesso na área de front-end & mobile
 ### - ☕ Só isso
-### - 🎃 Aquie estão alguns dos meus projetos: https://nahnathan.github.io/Blog-Angular/
+### - 🎃 Aqui estão alguns dos meus projetos: https://nahnathan.github.io/Blog-Angular/
 
 <div align="center">
   
