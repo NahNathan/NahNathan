@@ -2,6 +2,7 @@
 # Olá, sou Nathan Rodrigues 👋
 
 ### - 🗿 Oi, sou Nathan Rodrigues
+### - 👾 Sou um programador Web
 ### - 🎓 Estou cursando ADS no IFTM em Uberaba - MG
 ### - 🖥️ Me interesso na área de front-end & mobile
 ### - ☕ Só isso
