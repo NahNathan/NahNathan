@@ -59,7 +59,7 @@
 <b>Cursando</b><br>
 <b> Instituto Federal do Triângulo Mineiro - IFTM</b>
 
-- <b>Atualmente no 5° Período</b>
+- <b>Atualmente no 6° Período</b>
 <br>
 
 ---
