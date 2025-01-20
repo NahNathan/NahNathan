@@ -56,7 +56,7 @@
 
 ### Análise e Desenvolvimento de Sistemas - ADS👨‍💻
 2021 - 2024 <br>
-<b>Cursando</b><br>
+<b>Concluído</b><br>
 <b> Instituto Federal do Triângulo Mineiro - IFTM</b>
 
 - <b>Atualmente no 6° Período</b>
