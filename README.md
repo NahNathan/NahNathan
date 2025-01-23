@@ -3,7 +3,7 @@
 
 ### - 🗿 Oi, sou Nathan Rodrigues
 ### - 👾 Sou um programador Web
-### - 🎓 Estou cursando ADS no IFTM em Uberaba - MG
+### - 🎓 Cursado em ADS no IFTM em Uberaba - MG
 ### - 🖥️ Me interesso na área de front-end & mobile
 ### - ☕ Só isso
 ### - 🎃 Aqui estão alguns dos meus projetos: <a target="_blank" href="https://nahnathan.github.io/Blog-Angular/">https://nahnathan.github.io/Blog-Angular/</a>
@@ -47,19 +47,13 @@
 ## 🎓Formação
 
 ### Técnico em Eletrônica💡
-2019 - 2022 <br>
-<b>Concluído</b><br>
 <b> Instituto Federal do Triângulo Mineiro - IFTM</b>
 <br>
 
 ##
 
 ### Análise e Desenvolvimento de Sistemas - ADS👨‍💻
-2021 - 2024 <br>
-<b>Concluído</b><br>
 <b> Instituto Federal do Triângulo Mineiro - IFTM</b>
-
-- <b>Atualmente no 6° Período</b>
 <br>
 
 ---
