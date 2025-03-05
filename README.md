@@ -3,7 +3,7 @@
 
 ### - 🗿 Oi, sou Nathan Rodrigues
 ### - 👾 Sou um programador Web
-### - 🎓 Cursado em ADS no IFTM em Uberaba - MG
+### - 🎓 Formado em ADS no IFTM em Uberaba - MG
 ### - 🖥️ Me interesso na área de front-end & mobile
 ### - ☕ Só isso
 ### - 🎃 Aqui estão alguns dos meus projetos: <a target="_blank" href="https://nahnathan.github.io/Blog-Angular/">https://nahnathan.github.io/Blog-Angular/</a>
