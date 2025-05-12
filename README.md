@@ -1,9 +1,7 @@
 
 # Olá, sou Nathan Rodrigues 👋
-
-### - 🗿 Oi, sou Nathan Rodrigues
 ### - 👾 Sou um programador Web
-### - 🎓 Formado em ADS no IFTM em Uberaba - MG
+### - 🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas pelo IFTM UPT
 ### - 🖥️ Me interesso na área de front-end & mobile
 ### - ☕ Só isso
 ### - 🎃 Aqui estão alguns dos meus projetos: <a target="_blank" href="https://nahnathan.github.io/Blog-Angular/">https://nahnathan.github.io/Blog-Angular/</a>
